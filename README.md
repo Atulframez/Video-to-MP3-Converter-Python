@@ -69,6 +69,12 @@ Add progress bar
 Contributions are welcome!
 Fork the repository and submit a pull request.
 
+## Author
+
+Atul Anand
+BCA (Hons)
+Amity University, Noida
+
 ## Support
 
 If you found this useful, give it a ⭐ on GitHub!
